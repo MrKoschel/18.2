@@ -11,19 +11,19 @@ var movies = [
         id: 2,
         title: 'Król Lew',
         desc: 'Film o królu sawanny',
-        image: 'http://fandoms.pl/king-include/buzzupload/harrypotter_wb_f4_harrypottermidshot_promo_080615_port-9800970685.jpg'
+        image: 'https://e.allegroimg.com/s512/013383/4dd5ef704523a2b2d92adc3e99ce'
   },
     {
         id: 3,
         title: 'Batman',
         desc: 'Film o superbohaterze',
-        image: 'http://fandoms.pl/king-include/buzzupload/harrypotter_wb_f4_harrypottermidshot_promo_080615_port-9800970685.jpg'
+        image: 'https://static.posters.cz/image/750/plakaty/liga-sprawiedliwych-batman-solo-i50997.jpg'
   },
     {
         id: 4,
         title: 'Kubuś Puchatek',
         desc: 'Film o misiu',
-        image: 'http://fandoms.pl/king-include/buzzupload/harrypotter_wb_f4_harrypottermidshot_promo_080615_port-9800970685.jpg'
+        image: 'https://pixel.nymag.com/imgs/daily/vulture/2015/04/02/02-winnie-the-pooh.w330.h330.jpg'
   }
 ];
 
